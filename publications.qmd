@@ -62,5 +62,6 @@ editor: visual
 
 ## Conference
 
--   第五届能源、环境和产业经济与政策研讨会，2023年10月，中国天津
+-   The 5th Workshop on Energy, Environment, Industrial Economy and Policy, October 2023，Tianjin, China
 -   The 10th International Symposium on Quantitative History, July 2024, Shanghai, China
+-   The 7th Prospective Economist Forum, Central University of Finance and Economics, Award of Outstanding Paper,December 2024, Beijing, China
