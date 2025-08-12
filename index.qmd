@@ -1,6 +1,6 @@
 ---
 title: "Zhiqiang Wang"
-image: images/wangzhiqiang.png
+image: images/wangzhiqiang.jpg
 about:
   id: hero-heading
   template: trestles
@@ -19,12 +19,19 @@ about:
     - icon: 📝
       text: CV
       href: CV.pdf  
+    - icon: globe
+      text: zhihu
+      href: https://www.zhihu.com/people/luo-chen-69-44
 ---
 
 ::: {#hero-heading}
-Welcome !
+Welcome!
 
-I’m Zhiqiang Wang, a Ph.D. candidate in Economics at School of Economics, Peking University. My research interests include the economics of climate change and environmental economics, and I also have a strong interest in quantitative economic history. Currently, I focus on how climate shocks influence the adaptation of industrial sector. I will be on the job market in the 2025–2026 academic year and welcome discussions and collaborations.
+I’m Zhiqiang Wang, a Ph.D. candidate in Economics at School of Economics, Peking University. I received my Bachelor of Economics from the School of Economics, Peking University in 2021.  
+My research interests include the economics of climate change and environmental economics, and I also have a strong interest in quantitative economic history. Currently, I focus on how climate shocks influence the adaptation of industrial sector. I will be on the job market in the 2025–2026 academic year and welcome discussions and collaborations.
+
+
+
 
 
 :::

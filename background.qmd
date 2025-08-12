@@ -1,0 +1,34 @@
+---
+title: "Background"
+editor: visual
+---
+
+
+
+### Education
+| Item                                                      | Year                |
+|:----------------------------------------------------------|--------------------:|
+| Bachelor of Economics, School of Economics, Peking University | 2017–2021           |
+| Ph.D. in Economics, School of Economics, Peking University    | 2021–Expected 2026  |
+
+### Teaching Assistant Experience
+| Item                                 | Year |
+|:-------------------------------------|-----:|
+| Principles of Economics (II)         | 2020 |
+| Environmental Economics              | 2022 |
+| Empirical Environmental Economics    | 2023 |
+
+### Awards
+| Item                                                                 | Year |
+|:--------------------------------------------------------------------|-----:|
+| Peking University Freshman Scholarship                              | 2017 |
+| Peking University Practice and Public Welfare Award                 | 2018 |
+| Peking University National Encouragement scholarship                      | 2020 |
+| Special Prize, 31st "Challenge Cup" Award, Peking University | 2023 |
+| Peking University Excellent Research Award                          | 2023 |
+| Special Prize, 33rd "Challenge Cup" Award, Peking University | 2025 |
+| Innovation Talent Award, 15th "Chen Daisun" Cup, School of Economics, Peking University     | 2025 |
+| Peking University President's Scholarship                           | 2025 |
+
+
+
