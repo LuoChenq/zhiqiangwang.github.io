@@ -18,7 +18,7 @@ about:
       href: https://orcid.org/0000-0001-9791-8317
     - icon: 📝
       text: CV
-      href: CV.pdf  
+      href: CV_EN.pdf  
     - icon: globe
       text: zhihu
       href: https://www.zhihu.com/people/luo-chen-69-44
