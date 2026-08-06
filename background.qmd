@@ -8,7 +8,7 @@ editor: visual
 | Item | Year |
 |:--------------------------------------------------|--------------------:|
 | Bachelor of Economics, School of Economics, Peking University | 2017–2021 |
-| Ph.D. in Economics, School of Economics, Peking University | 2021–Expected 2026 |
+| Ph.D. in Economics, School of Economics, Peking University | 2021–2026 |
 
 ### Teaching Assistant
 
@@ -30,3 +30,5 @@ editor: visual
 | Grand Prize, The 33rd "Challenge Cup" Award, Peking University | 2025 |
 | Innovation Talent Award, 15th "Chen Daisun" Cup, School of Economics, Peking University | 2025 |
 | President's Scholarship, Peking University | 2025 |
+| National Scholarship, Peking University | 2025 |
+| Excellent Graduate, Peking University | 2026 |
