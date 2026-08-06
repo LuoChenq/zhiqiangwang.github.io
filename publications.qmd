@@ -55,10 +55,11 @@ editor: visual
 
 ## Working papers
 
--   From Cargo to Coverage: How Export Growth Lifts Insurance Premium Income (Chenbin Mao, **Zhiqiang Wang**, Ye Yin, Zhe Zhang\*). **Under Review.**
--   Environmental Policy and Innovation: A Systematic Evaluation in China (Xianling Long, **Zhiqiang Wang**, Castiel Chen Zhuang\*).
--   Down With the River: The Health Effects of GM Crop Promotion (**Zhiqiang Wang**, Xianling Long\*).
--   “饮鸩止渴”还是“刮骨疗毒”：来自晚清禁烟与民变的证据（郝煜，**王志强**\*，张喆）.
+-   The Health Effects of Genetically Modified Crops (**Zhiqiang Wang**, Xianling Long\*). *Journal of Development Economics*, **Revise & Resubmit**.
+-   From Cargo to Coverage: How Export Growth Lifts Insurance Premium Income (Chenbin Mao, **Zhiqiang Wang**, Ye Yin, Zhe Zhang\*). *The World Economy*, **Revise & Resubmit**.
+-   Environmental Gains, Economic Costs, and Policy Design: Evidence from Four Decades (Xianling Long\*, **Zhiqiang Wang**, Castiel Chen Zhuang\*). *Science Advance*, **Under Review**.
+-   When the state quit drugs: The impact of opium ban on public finance and social unrest in Late Qing China (Yu Hao\*, **Zhiqiang Wang**, Zhe Zhang). *Journal of Economics History*, **Under Review**.
+-   Gassing up the bill: The political cost of mandatory clean heating program in China (**Zhiqiang Wang**, Zhe Zhang\*). *Journal of Environmental Economics and Management*, **Submitted**.
 
 ## Conference
 
