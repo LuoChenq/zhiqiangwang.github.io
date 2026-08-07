@@ -27,11 +27,12 @@ about:
 ::: {#hero-heading}
 Welcome!
 
-I’m Zhiqiang Wang, a Xingnong Young Scholar at the College of Economics and Management, China Agricultural University. I recived my Ph.D. in Economics from the School of Economics, Peking University in 2026. I received my Bachelor of Economics from the School of Economics, Peking University in 2021.  
+I’m Zhiqiang Wang, a Xingnong Young Scholar at the College of Economics and Management, China Agricultural University. I received my Ph.D. in Economics from the School of Economics, Peking University in 2026 and my B.A. in Economics from the same institution in 2021.
 
-My research interests include the economics of climate change and environmental economics, and I also have a strong interest in quantitative economic history. Currently, I focus on how climate shocks influence the adaptation of industrial sector. 
+My research interests lie in environmental economics and the economics of climate change, with a particular interest in quantitative economic history. My current research focuses on how climate shocks shape adaptation in the industrial sector.
 
-Welcome discussions and collaborations.
+I welcome discussions and collaborations.
+
 
 
 
