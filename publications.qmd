@@ -53,6 +53,20 @@ editor: visual
 
     </details>
 
+-   Jun Li, **Zhiqiang Wang**, Ying Fan\*. Environmental Regulation and Corporate Green Transformation: Cognitive and Innovation Channels Within a Financing Boundary. *Sustainability*, 2026, 18(16):8206. [Link](https://www.mdpi.com/2071-1050/18/16/8206)\
+
+    ::: {style="margin-top:-0.2em;"}
+    :::
+
+    <details>
+
+    <summary>Abstract</summary>
+
+    Environmental regulation is widely regarded as an institutional driver of corporate green transformation, yet how it operates on firms and for whom remains unsettled. Treating the 2015 entry into force of China’s revised Environmental Protection Law as a quasi-natural experiment, this study estimates a difference-in-differences (DID) model on 38,910 firm-year observations covering 4447 Shanghai and Shenzhen A-share firms over 2010–2024. Corporate green transformation is measured along three dimensions—the length-normalized intensity of green-transformation language in annual reports, green patent output, and green total factor productivity—and combined into a composite index. The regulation raises green-transformation intensity by 0.156 (about 14.8% of the sample mean) and green total factor productivity by 0.0021; pre-reform event-study coefficients are jointly insignificant, no randomized placebo reaches the observed estimate, and the result survives propensity-score matching and province-by-year fixed effects. It is accompanied by falling greenwashing and rising disclosure specificity, indicating that the additional green language is not merely talk. Bootstrap mediation tests support transmission through executive green cognition and through green exploratory, but not exploitative, innovation. Contrary to the received view, the law did not loosen financing constraints; instead, pre-reform financial capacity bounds the response, and firms that were more constrained respond substantially less. Effects are larger for digitally capable, better-governed firms and in more marketized regions, and command-and-control instruments outperform market-based pilots over this window.
+
+    </details>
+
+
 ## Working papers
 
 -   The Health Effects of Genetically Modified Crops (**Zhiqiang Wang**, Xianling Long\*). *Journal of Development Economics*, **Revise & Resubmit**.
