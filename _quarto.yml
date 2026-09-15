@@ -1,13 +1,10 @@
 project:
   type: website
   output-dir: docs
-  
-project:
-  type: website
-  output-dir: _site
   resources:
     - CV.pdf
   
+
 website:
   page-navigation: true
   title: "Zhiqiang Wang"
