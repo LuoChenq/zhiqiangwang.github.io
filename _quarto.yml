@@ -2,6 +2,12 @@ project:
   type: website
   output-dir: docs
   
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CV.pdf
+  
 website:
   page-navigation: true
   title: "Zhiqiang Wang"
@@ -29,7 +35,7 @@ website:
       - text: "Projects"
         href: project.qmd 
       - text: "CV"
-        href: CV_EN.pdf
+        href: CV.pdf
 
 format:
   html:
