@@ -66,14 +66,28 @@ editor: visual
 
     </details>
 
+-   **Zhiqiang Wang**, Xianling Long\*. The health effects of genetically modified crops. *Journal of Development Economics*, 2026: 103930.\
+    [Link](https://www.sciencedirect.com/science/article/pii/S0304387826002130)\
+
+    ::: {style="margin-top:-0.2em;"}
+    :::
+
+    <details>
+
+    <summary>Abstract</summary>
+
+    Public debates on genetically modified (GM) crops center on environmental and health risks, yet evidence remains limited and focuses largely on herbicide-tolerant varieties or on local exposure, leaving the broad consequences of insect-resistant crops unclear. Insect-resistant crops can reduce pesticide use and generate health effects beyond directly exposed farmers. Yet their net effects are ambiguous, as any environmental gains may be offset by crop substitution, pest resistance, industrial expansion, and land-use change. We exploit the staggered approval of Bt cotton across China, combined with river networks that link cotton-growing areas to downstream residents. Bt cotton approval leads to significant downstream reductions in under-five mortality by 4.2%, driven by reduced pesticide use and improved water quality. In aggregate, Bt cotton approval reduces national pesticide use by 3.2%. The findings show that the social value of insect-resistant GM crops can be significantly underestimated, as they generate positive health externalities through environmental spillovers.
+
+    </details>
+
+
 
 ## Working papers
 
--   The Health Effects of Genetically Modified Crops (**Zhiqiang Wang**, Xianling Long\*). *Journal of Development Economics*, **Revise & Resubmit**.
 -   From Cargo to Coverage: How Export Growth Lifts Insurance Premium Income (Chenbin Mao, **Zhiqiang Wang**, Ye Yin, Zhe Zhang\*). *The World Economy*, **Revise & Resubmit**.
--   Environmental Gains, Economic Costs, and Policy Design: Evidence from Four Decades (Xianling Long\*, **Zhiqiang Wang**, Castiel Chen Zhuang\*). *Science Advance*, **Under Review**.
+-   Environmental Gains, Economic Costs, and Policy Design: Evidence from Four Decades (Xianling Long\*, **Zhiqiang Wang**, Castiel Chen Zhuang\*). *PNAS Nexus*, **Under Review**.
 -   When the state quit drugs: The impact of opium ban on public finance and social unrest in Late Qing China (Yu Hao\*, **Zhiqiang Wang**, Zhe Zhang). *Journal of Economics History*, **Under Review**.
--   Gassing up the bill: The political cost of mandatory clean heating program in China (**Zhiqiang Wang**, Zhe Zhang\*). *Journal of Environmental Economics and Management*, **Submitted**.
+-   Gassing up the bill: The political cost of mandatory clean heating program in China (**Zhiqiang Wang**, Zhe Zhang\*). *China Economics Review*, **Under Review**.
 
 ## Conference
 
